@@ -19,7 +19,7 @@
 <br>
 
 <p>
-  Graduated in Systems Analysis and Development with a focus on programming, technology reports, and more. I am also skilled in video editing, Arduino Uno, and design. I am always seeking challenges and new opportunities to expand my knowledge and skills.
+Technical Analyst and Systems Development majoring in programming, technology reporting, and more. I am also skilled in video editing, Arduino Uno, and design. I am always looking for challenges and new opportunities to expand my knowledge and skills.
 </p>
 
 
@@ -43,6 +43,7 @@
   <img alt="Ma4-Css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="Ma4-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="Ma4-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Ma4-Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />        
 </div>
 
 <div style="display: inline-block"><br>
@@ -50,11 +51,12 @@
   <img align="center" alt="Ma4-Canva" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> 
   <img align="center" alt="Ma4-Eclipse" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img align="center" alt="Ma4-Figma" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" alt="Ma4-Google" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" /
+  <img align="center" alt="Ma4-Google" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
+  <img align="center" alt="Ma4-Notes" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />        
   <img align="center" alt="Ma4-PyCharm" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="Ma4-Replit" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
   <img align="center" alt="Ma4-Vscode" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Ma4-Windows" height="80" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />        
+  <img align="center" alt="Ma4-Windows" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />
 </div>
 
 <br>
