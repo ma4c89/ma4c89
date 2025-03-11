@@ -49,9 +49,11 @@ Technical Analyst and Systems Development majoring in programming, technology re
 <div style="display: inline-block"><br>
   <h3> 🛠️ Tools </h3>
   <img align="center" alt="Ma4-Canva" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> 
+  <img align="center" alt="M-Django"  height="80" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
   <img align="center" alt="Ma4-Eclipse" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img align="center" alt="Ma4-Figma" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="Ma4-Google" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
+  <img align="center" alt="Ma4-Jupyter" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />        
   <img align="center" alt="Ma4-Notes" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />        
   <img align="center" alt="Ma4-PyCharm" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="Ma4-Replit" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
