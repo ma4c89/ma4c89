@@ -16,16 +16,26 @@
   </li>
 </ul>
 
+<br>
+
+<p>
+  Graduated in Systems Analysis and Development with a focus on programming, technology reports, and more. I am also skilled in video editing, Arduino Uno, and design. I am always seeking challenges and new opportunities to expand my knowledge and skills.
+</p>
+
+
+<br>
+
 <div>
   <a href="http://beacons.ai/ma4c89" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ma4c89&show_icons=true&theme=white&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma4c89&layout=compact&langs_count=10&theme=white">
   </a>
 </div>
+
 <br>
 
 <div style="text-align: center;">
-  <h2> 🧠 Knowledge: </h2>
+  <h2> 🧠 Knowledge </h2>
   <img alt="Ma4-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img alt="Ma4-Cmais" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img alt="Ma4-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
@@ -36,7 +46,7 @@
 </div>
 
 <div style="display: inline-block"><br>
-  <h3>Ferramentas que uso: </h3>
+  <h3> 🛠️ Tools </h3>
   <img align="center" alt="Ma4-Canva" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> 
   <img align="center" alt="Ma4-Eclipse" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img align="center" alt="Ma4-Figma" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
