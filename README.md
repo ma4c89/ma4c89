@@ -1,4 +1,4 @@
-<h1>Hi 🤞! I'm Marcio Ferreira from Brazil.</h1>
+<h1>Hi 🤞! I'm Marcio Ferreira from Brazil .</h1>
 <br>
 <h2>About Me</h2>
 <ul>
@@ -58,7 +58,10 @@ Technical Analyst and Systems Development majoring in programming, technology re
   <img align="center" alt="Ma4-PyCharm" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="Ma4-Replit" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
   <img align="center" alt="Ma4-Vscode" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Ma4-VSCGithub" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-plain.svg" />
   <img align="center" alt="Ma4-Windows" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />
+ 
+          
 </div>
 
 
