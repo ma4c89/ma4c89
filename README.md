@@ -10,9 +10,7 @@
   <li>🎓 Sou formado em Análise e Desenvolvimento de Sistemas, com foco em programação e tecnologia.</li>
 </ul>
 
-<br>
-
-## 🚀 Experiência  
+<br> 
 Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em programação, tecnologia e inovação. Também tenho habilidades em edição de vídeos, Arduino Uno e design. Estou sempre buscando desafios e novas oportunidades para expandir meus conhecimentos.
 
 <br>
