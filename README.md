@@ -15,14 +15,19 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
 
 <br>
 
+## Status  
+🚀 Atualmente aprendendo mais sobre Python e suas bibliotecas.
+
+<br>
+
 ## 📊 Estatísticas do GitHub
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="http://beacons.ai/ma4c89" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ma4c89&show_icons=true&theme=light&include_all_commits=true&count_private=true">
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=ma4c89&show_icons=true&theme=white" alt="GitHub Stats" />
   </a>
-  <a href="http://beacons.ai/ma4c89" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma4c89&layout=compact&langs_count=10&theme=light">
-  </a>
+ <a href="http://beacons.ai/ma4c89" target="_blank">
+   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma4c89&layout=compact&langs_count=10&theme=white" alt="Top Languages" />
+ </a>
 </div>
 
 <br>
