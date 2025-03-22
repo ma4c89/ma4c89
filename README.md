@@ -59,7 +59,7 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
 <br>
 
 ## 🌍 Redes Sociais
-<div>
+<p align="right">
   <a href="https://twitter.com/Marciovila9541" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
@@ -69,4 +69,4 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
   <a href="https://www.linkedin.com/in/márcio-ferreira-b54383327" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+</p>
