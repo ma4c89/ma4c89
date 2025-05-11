@@ -16,8 +16,9 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
 
 <br>
 
-## Status  
-🚀 Atualmente aprendendo mais sobre Python e suas bibliotecas.
+## Sobre mim na área de TI
+<p>Tenho uma curiosidade natural e muita facilidade para aprender. Desde cedo, me identifiquei com a área de TI e estou sempre buscando evoluir e aprender novas tecnologias.</p>
+
 
 <br>
 
