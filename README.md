@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%F0%9F%A4%9E!+Eu+sou+Márcio,+seja+bem-vindo.)
 
-
 <br>
 
 ## 📌 Sobre Mim
@@ -24,12 +23,12 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
 
 ## 📊 Estatísticas do GitHub
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="http://beacons.ai/ma4c89" target="_blank">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ma4c89&show_icons=true&theme=white" alt="GitHub Stats" />
+  <a href="https://beacons.ai/ma4c89" target="_blank">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ma4c89&show_icons=true&theme=transparent&hide_border=false&rank_icon=github" alt="Estatísticas do GitHub de ma4c89" />
   </a>
- <a href="http://beacons.ai/ma4c89" target="_blank">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma4c89&layout=compact&langs_count=10&theme=light">
- </a>
+  <a href="https://beacons.ai/ma4c89" target="_blank">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma4c89&layout=compact&langs_count=10&theme=transparent&hide_border=false" alt="Principais linguagens de ma4c89 no GitHub" />
+  </a>
 </div>
 
 <br>
@@ -52,6 +51,7 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
 <div align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> 
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
@@ -62,6 +62,11 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />
+  
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
+  
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" />
+          
 </div>
 
 <br>
