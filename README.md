@@ -23,10 +23,11 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
 ## 📊 Estatísticas do GitHub
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://beacons.ai/ma4c89" target="_blank">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ma4c89&show_icons=true&theme=transparent&hide_border=false&rank_icon=github" alt="Estatísticas do GitHub de ma4c89" />
-  </a>
-  <a href="https://beacons.ai/ma4c89" target="_blank">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma4c89&layout=compact&langs_count=10&theme=transparent&hide_border=false" alt="Principais linguagens de ma4c89 no GitHub" />
+    <img 
+      height="width: 700px" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma4c89&layout=compact&langs_count=10&theme=light&hide_border=false" 
+      alt="Principais linguagens de ma4c89 no GitHub" 
+    />
   </a>
 </div>
 
