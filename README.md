@@ -65,17 +65,21 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
 <div>
   <h3>🔧 Recursos Úteis para Desenvolvimento e Design</h3>
   <ul style="list-style-type: none; padding-left: 0; line-height: 1.8;">
-    <li>🎨 <a href="https://coolors.co/" target="_blank" rel="noopener noreferrer">Coolors</a> — Gerador rápido de paletas de cores.</li>
-    <li>🎯 <a href="https://dribbble.com/" target="_blank" rel="noopener noreferrer">Dribbble</a> — Inspiração para design e UI/UX.</li>
-    <li>🔍 <a href="https://www.color-blindness.com/color-name-hue/" target="_blank" rel="noopener noreferrer">Colour Contrast Checker</a> — Verificador de contraste para acessibilidade.</li>
-    <li>⭐ <a href="https://fontawesome.com/" target="_blank" rel="noopener noreferrer">Font Awesome</a> — Biblioteca de ícones vetoriais para web.</li>
-    <li>📘 <a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer">W3Schools</a> — Tutoriais e referência rápida para desenvolvimento web.</li>
-    <li>🧠 <a href="https://www.tpointtech.com/" target="_blank" rel="noopener noreferrer">TPoint Tech</a> — Conteúdos técnicos e cursos online.</li>
-    <li>🖼️ <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a> — Editor de imagens online similar ao Photoshop.</li>
-    <li>🌈 <a href="https://cssgradient.io/" target="_blank" rel="noopener noreferrer">CSS Gradient</a> — Ferramenta para criar gradientes CSS personalizados.</li>
-    <li>🔤 <a href="https://fonts.google.com/" target="_blank" rel="noopener noreferrer">Google Fonts</a> — Biblioteca gratuita de fontes para web.</li>
+    <li>🎨 <a href="https://coolors.co/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Coolors</a> — Gerador rápido de paletas de cores.</li>
+    <li>🎯 <a href="https://dribbble.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Dribbble</a> — Inspiração para design e UI/UX.</li>
+    <li>🔍 <a href="https://www.color-blindness.com/color-name-hue/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Colour Contrast Checker</a> — Verificador de contraste para acessibilidade.</li>
+    <li>⭐ <a href="https://fontawesome.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Font Awesome</a> — Biblioteca de ícones vetoriais para web.</li>
+    <li>📘 <a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">W3Schools</a> — Tutoriais e referência rápida para desenvolvimento web.</li>
+    <li>🧠 <a href="https://www.tpointtech.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">TPoint Tech</a> — Conteúdos técnicos e cursos online.</li>
+    <li>🖼️ <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Photopea</a> — Editor de imagens online similar ao Photoshop.</li>
+    <li>🌈 <a href="https://cssgradient.io/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">CSS Gradient</a> — Ferramenta para criar gradientes CSS personalizados.</li>
+    <li>🔤 <a href="https://fonts.google.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Google Fonts</a> — Biblioteca gratuita de fontes para web.</li>
+    <li>🧩 <a href="https://www.iconfinder.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Iconfinder</a> — Banco de ícones vetoriais e gráficos.</li>
+    <li>📷 <a href="https://undraw.co/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">unDraw</a> — Ilustrações SVG gratuitas e personalizáveis.</li>
+    <li>🗂️ <a href="https://www.svgrepo.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">SVG Repo</a> — Repositório com milhares de SVGs gratuitos.</li>
   </ul>
 </div>
+
 
 
 ## 🌍 Redes Sociais
