@@ -70,6 +70,7 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
 <div>
   <h3>Recursos Úteis</h3>
   <ul>
+    <li><a href="https://coolors.co/" target="_blank" rel="noopener noreferrer">Coolors</a></li>
     <li><a href="https://dribbble.com/" target="_blank" rel="noopener noreferrer">Dribbble</a></li>
     <li><a href="https://www.color-blindness.com/color-name-hue/" target="_blank" rel="noopener noreferrer">Colour Contrast Checker</a></li>
     <li><a href="https://fontawesome.com/" target="_blank" rel="noopener noreferrer">Font Awesome</a></li>
