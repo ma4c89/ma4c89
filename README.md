@@ -77,7 +77,7 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
     <li><a href="https://www.tpointtech.com/" target="_blank" rel="noopener noreferrer">TPoint Tech</a></li>
     <li><a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a></li>
     <li><a href="https://cssgradient.io/" target="_blank" rel="noopener noreferrer">CSS Gradient</a></li>
-    <li><a href="https://https://fonts.google.com/" target="_blank" rel="noopener noreferrer"></li>
+    <li><a href="https://fonts.google.com/" target="_blank" rel="noopener noreferrer"></li>
   </ul>
 </div>
 
