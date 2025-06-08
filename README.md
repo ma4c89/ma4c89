@@ -60,6 +60,10 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" alt="Replit" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Windows 11" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react"/>
+          
+  
 </div>
 
 <div>
