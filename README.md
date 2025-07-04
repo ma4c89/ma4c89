@@ -56,7 +56,10 @@
   <img alt="Windows 11" height="24" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="pip" height="24" src="https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="npm" height="24" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="Pinterest" height="24" src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" />
+  <img alt="Notion" height="24" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
+
 
 
 ## 🧰 Recursos Úteis para Desenvolvimento e Design
