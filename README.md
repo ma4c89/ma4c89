@@ -64,15 +64,21 @@
 
 ## 🧰 Recursos Úteis para Desenvolvimento e Design
 
+## 🧰 Recursos Úteis para Desenvolvimento e Design
+
 <table>
   <tbody>
     <tr>
-      <td>🧐 <a href="https://www.color-blindness.com/color-name-hue/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Colour Contrast Checker</a></td>
-      <td>Verificador de contraste para acessibilidade.</td>
+      <td>📄 <a href="https://customtkinter.tomschimansky.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">CustomTkinter</a></td>
+      <td>Biblioteca moderna para criar interfaces gráficas com Python usando uma versão personalizada do Tkinter.</td>
     </tr>
     <tr>
       <td>🎨 <a href="https://coolors.co/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Coolors</a></td>
-      <td>Gerador rápido de paletas de cores.</td>
+      <td>Gerador rápido e intuitivo de paletas de cores para projetos criativos e interfaces.</td>
+    </tr>
+    <tr>
+      <td>📄 <a href="https://www.color-blindness.com/color-name-hue/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Colour Contrast Checker</a></td>
+      <td>Verificador de contraste para acessibilidade.</td>
     </tr>
     <tr>
       <td>💡 <a href="https://dribbble.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Dribbble</a></td>
@@ -89,6 +95,10 @@
     <tr>
       <td>🔠 <a href="https://fonts.google.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Google Fonts</a></td>
       <td>Biblioteca gratuita de fontes para web.</td>
+    </tr>
+    <tr>
+      <td>🧱 <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Bootstrap</a></td>
+      <td>Framework popular para desenvolvimento web com foco em design responsivo e componentes prontos.</td>
     </tr>
     <tr>
       <td>🧩 <a href="https://www.iconfinder.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Iconfinder</a></td>
@@ -111,8 +121,8 @@
       <td>Repositório com milhares de SVGs gratuitos.</td>
     </tr>
     <tr>
-      <td>🧠 <a href="https://www.tpointtech.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">TPoint Tech</a></td>
-      <td>Conteúdos técnicos e cursos online.</td>
+      <td>🎤 <a href="https://www.tpointtech.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">TPoint Tech</a></td>
+      <td>Conteúdos técnicos, tutoriais e cursos online.</td>
     </tr>
     <tr>
       <td>🎯 <a href="https://undraw.co/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">unDraw</a></td>
@@ -122,16 +132,13 @@
       <td>📷 <a href="https://unsplash.com/pt-br" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Unsplash</a></td>
       <td>Banco gratuito de imagens em alta resolução.</td>
     </tr>
-   <tr>
-   <td> 📃 <a href="https://customtkinter.tomschimansky.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">CustomTkinter</a></td>
-    <td>Biblioteca moderna para criar interfaces gráficas com Python usando uma versão personalizada do Tkinter.</td>
-  </tr>
-  <tr>
-    <td>📘 <a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">W3Schools</a></td>
-  <td>Plataforma educativa com tutoriais e exemplos de HTML, CSS, JavaScript, Python e outras linguagens web.</td>
-  </tr>
+    <tr>
+      <td>📄 <a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">W3Schools</a></td>
+      <td>Plataforma educativa com tutoriais e exemplos de HTML, CSS, JS, Python e outras linguagens web.</td>
+    </tr>
   </tbody>
 </table>
+
 
 
 ## 🌍 Redes Sociais
