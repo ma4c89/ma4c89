@@ -8,10 +8,6 @@
   <li>🎓 Sou formado em Análise e Desenvolvimento de Sistemas, com foco em programação e tecnologia.</li>
 </ul>
 
-<p> 
-Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em programação, tecnologia e inovação. Também tenho habilidades em edição de vídeos, Arduino Uno e design. Estou sempre buscando desafios e novas oportunidades para expandir meus conhecimentos.
-</p>
-
 ## Sobre mim na área de TI
 <p>Tenho uma curiosidade natural e muita facilidade para aprender. Desde cedo, me identifiquei com a área de TI e estou sempre buscando evoluir, aprendendo tanto tecnologias novas quanto antigas.</p>
 
@@ -58,9 +54,11 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
   <img alt="Replit" height="24" src="https://img.shields.io/badge/Replit-2F2F2F?style=for-the-badge&logo=replit&logoColor=white" />
   <img alt="VS Code" height="24" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Windows 11" height="24" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="pip" height="24" src="https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="npm" height="24" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </div>
 
-## 🧰 Recursos Úteis para Desenvolvimento e Design
+
 ## 🧰 Recursos Úteis para Desenvolvimento e Design
 
 <table>
@@ -121,6 +119,14 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
       <td>📷 <a href="https://unsplash.com/pt-br" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Unsplash</a></td>
       <td>Banco gratuito de imagens em alta resolução.</td>
     </tr>
+   <tr>
+   <td> 📃 <a href="https://customtkinter.tomschimansky.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">CustomTkinter</a></td>
+    <td>Biblioteca moderna para criar interfaces gráficas com Python usando uma versão personalizada do Tkinter.</td>
+  </tr>
+  <tr>
+    <td>📘 <a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">W3Schools</a></td>
+  <td>Plataforma educativa com tutoriais e exemplos de HTML, CSS, JavaScript, Python e outras linguagens web.</td>
+  </tr>
   </tbody>
 </table>
 
