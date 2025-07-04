@@ -61,22 +61,69 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
 </div>
 
 ## 🧰 Recursos Úteis para Desenvolvimento e Design
-<ul style="list-style-type: none; padding-left: 0; line-height: 1.8;">
-  <li>🧐 <a href="https://www.color-blindness.com/color-name-hue/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Colour Contrast Checker</a> — Verificador de contraste para acessibilidade.</li>
-  <li>🎨 <a href="https://coolors.co/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Coolors</a> — Gerador rápido de paletas de cores.</li>
-  <li>💡 <a href="https://dribbble.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Dribbble</a> — Inspiração para design e UI/UX.</li>
-  <li>⚙️ <a href="https://expo.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Expo</a> — Plataforma para desenvolver, testar e publicar apps React Native com rapidez e sem complicações.</li>
-  <li>⭐ <a href="https://fontawesome.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Font Awesome</a> — Biblioteca de ícones vetoriais para web.</li>
-  <li>🔠 <a href="https://fonts.google.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Google Fonts</a> — Biblioteca gratuita de fontes para web.</li>
-  <li>🧩 <a href="https://www.iconfinder.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Iconfinder</a> — Banco de ícones vetoriais e gráficos.</li>
-  <li>📸 <a href="https://www.pexels.com/pt-br/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Pexels</a> — Plataforma com fotos e vídeos gratuitos para uso comercial.</li>
-  <li>🖌️ <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Photopea</a> — Editor de imagens online similar ao Photoshop.</li>
-  <li>⚛️ <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">React Native</a> — Framework criado pelo Facebook para desenvolver aplicativos móveis nativos usando JavaScript e React.</li>
-  <li>🗂️ <a href="https://www.svgrepo.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">SVG Repo</a> — Repositório com milhares de SVGs gratuitos.</li>
-  <li>🧠 <a href="https://www.tpointtech.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">TPoint Tech</a> — Conteúdos técnicos e cursos online.</li>
-  <li>🎯 <a href="https://undraw.co/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">unDraw</a> — Ilustrações SVG gratuitas e personalizáveis.</li>
-  <li>📷 <a href="https://unsplash.com/pt-br" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Unsplash</a> — Banco gratuito de imagens em alta resolução.</li>
-</ul>
+## 🧰 Recursos Úteis para Desenvolvimento e Design
+
+<table>
+  <tbody>
+    <tr>
+      <td>🧐 <a href="https://www.color-blindness.com/color-name-hue/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Colour Contrast Checker</a></td>
+      <td>Verificador de contraste para acessibilidade.</td>
+    </tr>
+    <tr>
+      <td>🎨 <a href="https://coolors.co/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Coolors</a></td>
+      <td>Gerador rápido de paletas de cores.</td>
+    </tr>
+    <tr>
+      <td>💡 <a href="https://dribbble.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Dribbble</a></td>
+      <td>Inspiração para design e UI/UX.</td>
+    </tr>
+    <tr>
+      <td>⚙️ <a href="https://expo.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Expo</a></td>
+      <td>Plataforma para desenvolver, testar e publicar apps React Native com rapidez e sem complicações.</td>
+    </tr>
+    <tr>
+      <td>⭐ <a href="https://fontawesome.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Font Awesome</a></td>
+      <td>Biblioteca de ícones vetoriais para web.</td>
+    </tr>
+    <tr>
+      <td>🔠 <a href="https://fonts.google.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Google Fonts</a></td>
+      <td>Biblioteca gratuita de fontes para web.</td>
+    </tr>
+    <tr>
+      <td>🧩 <a href="https://www.iconfinder.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Iconfinder</a></td>
+      <td>Banco de ícones vetoriais e gráficos.</td>
+    </tr>
+    <tr>
+      <td>📸 <a href="https://www.pexels.com/pt-br/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Pexels</a></td>
+      <td>Plataforma com fotos e vídeos gratuitos para uso comercial.</td>
+    </tr>
+    <tr>
+      <td>🖌️ <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Photopea</a></td>
+      <td>Editor de imagens online similar ao Photoshop.</td>
+    </tr>
+    <tr>
+      <td>⚛️ <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">React Native</a></td>
+      <td>Framework criado pelo Facebook para desenvolver apps móveis nativos com JavaScript e React.</td>
+    </tr>
+    <tr>
+      <td>🗂️ <a href="https://www.svgrepo.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">SVG Repo</a></td>
+      <td>Repositório com milhares de SVGs gratuitos.</td>
+    </tr>
+    <tr>
+      <td>🧠 <a href="https://www.tpointtech.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">TPoint Tech</a></td>
+      <td>Conteúdos técnicos e cursos online.</td>
+    </tr>
+    <tr>
+      <td>🎯 <a href="https://undraw.co/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">unDraw</a></td>
+      <td>Ilustrações SVG gratuitas e personalizáveis.</td>
+    </tr>
+    <tr>
+      <td>📷 <a href="https://unsplash.com/pt-br" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Unsplash</a></td>
+      <td>Banco gratuito de imagens em alta resolução.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 🌍 Redes Sociais
 <p align="right">
