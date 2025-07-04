@@ -60,10 +60,6 @@
   <img alt="Notion" height="24" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 
-
-
-## 🧰 Recursos Úteis para Desenvolvimento e Design
-
 ## 🧰 Recursos Úteis para Desenvolvimento e Design
 
 <table>
