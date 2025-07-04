@@ -13,16 +13,12 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
 </p>
 
 ## Sobre mim na área de TI
-<p>Tenho uma curiosidade natural e muita facilidade para aprender. Desde cedo, me identifiquei com a área de TI e estou sempre buscando evoluir e aprender novas e também antigas tecnologias.</p>
+<p>Tenho uma curiosidade natural e muita facilidade para aprender. Desde cedo, me identifiquei com a área de TI e estou sempre buscando evoluir, aprendendo tanto tecnologias novas quanto antigas.</p>
 
 ## 📊 Estatísticas do GitHub
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://beacons.ai/ma4c89" target="_blank">
-    <img 
-      height="width: 700px" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma4c89&layout=compact&langs_count=10&theme=light&hide_border=false" 
-      alt="Principais linguagens de ma4c89 no GitHub" 
-    />
+  <a href="https://beacons.ai/ma4c89" target="_blank" rel="noopener noreferrer">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma4c89&hide_border=true&layout=compact" alt="Principais linguagens usadas no GitHub" style="max-width: 700; width: 500;" />
   </a>
 </div>
 
@@ -64,36 +60,33 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
   <img alt="Windows 11" height="24" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
-<div>
-  <h3>🧰 Recursos Úteis para Desenvolvimento e Design</h3>
-  <ul style="list-style-type: none; padding-left: 0; line-height: 1.8;">
-    <li>🧐 <a href="https://www.color-blindness.com/color-name-hue/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Colour Contrast Checker</a> — Verificador de contraste para acessibilidade.</li>
-    <li>🎨 <a href="https://coolors.co/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Coolors</a> — Gerador rápido de paletas de cores.</li>
-    <li>💡 <a href="https://dribbble.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Dribbble</a> — Inspiração para design e UI/UX.</li>
-    <li>⚙️ <a href="https://expo.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Expo</a> — Plataforma para desenvolver, testar e publicar apps React Native com rapidez e sem complicações.</li>
-    <li>⭐ <a href="https://fontawesome.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Font Awesome</a> — Biblioteca de ícones vetoriais para web.</li>
-    <li>🔠 <a href="https://fonts.google.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Google Fonts</a> — Biblioteca gratuita de fontes para web.</li>
-    <li>🧩 <a href="https://www.iconfinder.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Iconfinder</a> — Banco de ícones vetoriais e gráficos.</li>
-    <li>📸 <a href="https://www.pexels.com/pt-br/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Pexels</a> — Plataforma com fotos e vídeos gratuitos para uso comercial.</li>
-    <li>🖌️ <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Photopea</a> — Editor de imagens online similar ao Photoshop.</li>
-    <li>⚛️ <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">React Native</a> — Framework criado pelo Facebook para desenvolver aplicativos móveis nativos usando JavaScript e React.</li>
-    <li>🗂️ <a href="https://www.svgrepo.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">SVG Repo</a> — Repositório com milhares de SVGs gratuitos.</li>
-    <li>🧠 <a href="https://www.tpointtech.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">TPoint Tech</a> — Conteúdos técnicos e cursos online.</li>
-    <li>🎯 <a href="https://undraw.co/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">unDraw</a> — Ilustrações SVG gratuitas e personalizáveis.</li>
-    <li>📷 <a href="https://unsplash.com/pt-br" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Unsplash</a> — Banco gratuito de imagens em alta resolução.</li>
-  </ul>
-</div>
-
+## 🧰 Recursos Úteis para Desenvolvimento e Design
+<ul style="list-style-type: none; padding-left: 0; line-height: 1.8;">
+  <li>🧐 <a href="https://www.color-blindness.com/color-name-hue/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Colour Contrast Checker</a> — Verificador de contraste para acessibilidade.</li>
+  <li>🎨 <a href="https://coolors.co/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Coolors</a> — Gerador rápido de paletas de cores.</li>
+  <li>💡 <a href="https://dribbble.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Dribbble</a> — Inspiração para design e UI/UX.</li>
+  <li>⚙️ <a href="https://expo.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Expo</a> — Plataforma para desenvolver, testar e publicar apps React Native com rapidez e sem complicações.</li>
+  <li>⭐ <a href="https://fontawesome.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Font Awesome</a> — Biblioteca de ícones vetoriais para web.</li>
+  <li>🔠 <a href="https://fonts.google.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Google Fonts</a> — Biblioteca gratuita de fontes para web.</li>
+  <li>🧩 <a href="https://www.iconfinder.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Iconfinder</a> — Banco de ícones vetoriais e gráficos.</li>
+  <li>📸 <a href="https://www.pexels.com/pt-br/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Pexels</a> — Plataforma com fotos e vídeos gratuitos para uso comercial.</li>
+  <li>🖌️ <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Photopea</a> — Editor de imagens online similar ao Photoshop.</li>
+  <li>⚛️ <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">React Native</a> — Framework criado pelo Facebook para desenvolver aplicativos móveis nativos usando JavaScript e React.</li>
+  <li>🗂️ <a href="https://www.svgrepo.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">SVG Repo</a> — Repositório com milhares de SVGs gratuitos.</li>
+  <li>🧠 <a href="https://www.tpointtech.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">TPoint Tech</a> — Conteúdos técnicos e cursos online.</li>
+  <li>🎯 <a href="https://undraw.co/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">unDraw</a> — Ilustrações SVG gratuitas e personalizáveis.</li>
+  <li>📷 <a href="https://unsplash.com/pt-br" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Unsplash</a> — Banco gratuito de imagens em alta resolução.</li>
+</ul>
 
 ## 🌍 Redes Sociais
 <p align="right">
-  <a href="https://twitter.com/Marciovila9541" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://twitter.com/Marciovila9541" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.instagram.com/marcio_ferreira11" target="_blank">
+  <a href="https://www.instagram.com/marcio_ferreira11" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/márcio-ferreira-b54383327" target="_blank">
+  <a href="https://www.linkedin.com/in/márcio-ferreira-b54383327" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
