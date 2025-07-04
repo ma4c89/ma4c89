@@ -82,6 +82,8 @@ Sou Analista Técnico e formado em Desenvolvimento de Sistemas, com interesse em
     <li>📷 <a href="https://undraw.co/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">unDraw</a> — Ilustrações SVG gratuitas e personalizáveis.</li>
     <li>📘 <a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">W3Schools</a> — Tutoriais e referência rápida para desenvolvimento web.</li>
     <li>🌈 <a href="https://cssgradient.io/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">CSS Gradient</a> — Ferramenta para criar gradientes CSS personalizados.</li>
+    <li>🌈 <a href="https://unsplash.com/pt-br" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Uns Unsplash </a> — Ferramenta para imgens.</li>
+    <li>🌈 <a href="https://www.pexels.com/pt-br/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Uns Unsplash </a> — Ferramenta para imgens.</li>
   </ul>
 </div>
 
