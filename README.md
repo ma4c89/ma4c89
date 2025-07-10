@@ -58,83 +58,89 @@
   <img alt="npm" height="24" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="Pinterest" height="24" src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" />
   <img alt="Notion" height="24" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img alt="GitHub Desktop" height="24" src="https://img.shields.io/badge/GitHub_Desktop-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-## 🧰 Recursos Úteis para Desenvolvimento e Design
+<h3 align="center">🔧 Recursos Úteis para Desenvolvimento e Design</h3>
 
-<table>
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th align="left">🔗 Recurso</th>
+      <th align="left">📝 Descrição</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td>📄 <a href="https://customtkinter.tomschimansky.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">CustomTkinter</a></td>
-      <td>Biblioteca moderna para criar interfaces gráficas com Python usando uma versão personalizada do Tkinter.</td>
+      <td>📄 <a href="https://customtkinter.tomschimansky.com/" target="_blank">CustomTkinter</a></td>
+      <td>Biblioteca moderna para interfaces gráficas com Python.</td>
     </tr>
     <tr>
-      <td>🎨 <a href="https://coolors.co/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Coolors</a></td>
-      <td>Gerador rápido e intuitivo de paletas de cores para projetos criativos e interfaces.</td>
+      <td>🎨 <a href="https://coolors.co/" target="_blank">Coolors</a></td>
+      <td>Gerador de paletas de cores intuitivo.</td>
     </tr>
     <tr>
-      <td>📄 <a href="https://www.color-blindness.com/color-name-hue/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Colour Contrast Checker</a></td>
+      <td>🧪 <a href="https://www.color-blindness.com/color-name-hue/" target="_blank">Colour Contrast Checker</a></td>
       <td>Verificador de contraste para acessibilidade.</td>
     </tr>
     <tr>
-      <td>💡 <a href="https://dribbble.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Dribbble</a></td>
+      <td>💡 <a href="https://dribbble.com/" target="_blank">Dribbble</a></td>
       <td>Inspiração para design e UI/UX.</td>
     </tr>
     <tr>
-      <td>⚙️ <a href="https://expo.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Expo</a></td>
-      <td>Plataforma para desenvolver, testar e publicar apps React Native com rapidez e sem complicações.</td>
+      <td>⚙️ <a href="https://expo.dev/" target="_blank">Expo</a></td>
+      <td>Desenvolvimento e publicação de apps React Native.</td>
     </tr>
     <tr>
-      <td>⭐ <a href="https://fontawesome.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Font Awesome</a></td>
+      <td>⭐ <a href="https://fontawesome.com/" target="_blank">Font Awesome</a></td>
       <td>Biblioteca de ícones vetoriais para web.</td>
     </tr>
     <tr>
-      <td>🔠 <a href="https://fonts.google.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Google Fonts</a></td>
+      <td>🔠 <a href="https://fonts.google.com/" target="_blank">Google Fonts</a></td>
       <td>Biblioteca gratuita de fontes para web.</td>
     </tr>
     <tr>
-      <td>🧱 <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Bootstrap</a></td>
-      <td>Framework popular para desenvolvimento web com foco em design responsivo e componentes prontos.</td>
+      <td>🧱 <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a></td>
+      <td>Framework web com componentes responsivos.</td>
     </tr>
     <tr>
-      <td>🧩 <a href="https://www.iconfinder.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Iconfinder</a></td>
+      <td>🧩 <a href="https://www.iconfinder.com/" target="_blank">Iconfinder</a></td>
       <td>Banco de ícones vetoriais e gráficos.</td>
     </tr>
     <tr>
-      <td>📸 <a href="https://www.pexels.com/pt-br/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Pexels</a></td>
-      <td>Plataforma com fotos e vídeos gratuitos para uso comercial.</td>
+      <td>📸 <a href="https://www.pexels.com/pt-br/" target="_blank">Pexels</a></td>
+      <td>Fotos e vídeos gratuitos para uso comercial.</td>
     </tr>
     <tr>
-      <td>🖌️ <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Photopea</a></td>
-      <td>Editor de imagens online similar ao Photoshop.</td>
+      <td>🖌️ <a href="https://www.photopea.com/" target="_blank">Photopea</a></td>
+      <td>Editor de imagens online tipo Photoshop.</td>
     </tr>
     <tr>
-      <td>⚛️ <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">React Native</a></td>
-      <td>Framework criado pelo Facebook para desenvolver apps móveis nativos com JavaScript e React.</td>
+      <td>⚛️ <a href="https://reactnative.dev/" target="_blank">React Native</a></td>
+      <td>Criação de apps móveis com React.</td>
     </tr>
     <tr>
-      <td>🗂️ <a href="https://www.svgrepo.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">SVG Repo</a></td>
+      <td>🗂️ <a href="https://www.svgrepo.com/" target="_blank">SVG Repo</a></td>
       <td>Repositório com milhares de SVGs gratuitos.</td>
     </tr>
     <tr>
-      <td>🎤 <a href="https://www.tpointtech.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">TPoint Tech</a></td>
+      <td>🎤 <a href="https://www.tpointtech.com/" target="_blank">TPoint Tech</a></td>
       <td>Conteúdos técnicos, tutoriais e cursos online.</td>
     </tr>
     <tr>
-      <td>🎯 <a href="https://undraw.co/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">unDraw</a></td>
-      <td>Ilustrações SVG gratuitas e personalizáveis.</td>
+      <td>🎯 <a href="https://undraw.co/" target="_blank">unDraw</a></td>
+      <td>Ilustrações SVG gratuitas e customizáveis.</td>
     </tr>
     <tr>
-      <td>📷 <a href="https://unsplash.com/pt-br" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Unsplash</a></td>
+      <td>📷 <a href="https://unsplash.com/pt-br" target="_blank">Unsplash</a></td>
       <td>Banco gratuito de imagens em alta resolução.</td>
     </tr>
     <tr>
-      <td>📄 <a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">W3Schools</a></td>
-      <td>Plataforma educativa com tutoriais e exemplos de HTML, CSS, JS, Python e outras linguagens web.</td>
+      <td>🌐 <a href="https://www.w3schools.com/" target="_blank">W3Schools</a></td>
+      <td>Plataforma com tutoriais e exemplos de web development.</td>
     </tr>
   </tbody>
 </table>
-
 
 
 ## 🌍 Redes Sociais
