@@ -61,8 +61,8 @@
   <img alt="GitHub Desktop" height="24" src="https://img.shields.io/badge/GitHub_Desktop-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-<h3 align="center">🔧 Recursos Úteis para Desenvolvimento e Design</h3>
 
+##🔧 Recursos Úteis para Desenvolvimento e Design
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="6">
   <thead>
     <tr style="background-color: #f2f2f2;">
