@@ -62,7 +62,7 @@
 </div>
 
 
-##🔧 Recursos Úteis para Desenvolvimento e Design
+## 🔧 Recursos Úteis para Desenvolvimento e Design
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="6">
   <thead>
     <tr style="background-color: #f2f2f2;">
