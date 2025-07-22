@@ -59,6 +59,7 @@
   <img alt="Pinterest" height="24" src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" />
   <img alt="Notion" height="24" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img alt="GitHub Desktop" height="24" src="https://img.shields.io/badge/GitHub_Desktop-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Expo" height="24" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </div>
 
 <br>
