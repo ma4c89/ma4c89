@@ -6,6 +6,7 @@
   <li>📽️ Sou editor de vídeos.</li>
   <li>🎨 Tenho paixão por design.</li>
   <li>🎓 Sou formado em Análise e Desenvolvimento de Sistemas, com foco em programação e tecnologia.</li>
+  <li>🎓 Atualmente curso Ciência da Computação na Unitri, em Uberlândia/MG.</li>
 </ul>
 
 ## Sobre mim na área de TI
