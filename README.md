@@ -16,10 +16,13 @@
 <br>
 
 ## 📊 Estatísticas do GitHub
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://beacons.ai/ma4c89" target="_blank" rel="noopener noreferrer">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma4c89&hide_border=true&layout=compact" alt="Principais linguagens usadas no GitHub" style="max-width: 700; width: 500;" />
-  </a>
+
+<div align="center">
+
+<a href="https://github.com/ma4c89">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma4c89&layout=compact&langs_count=8&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true"/>
+</a>
+
 </div>
 
 <br>
