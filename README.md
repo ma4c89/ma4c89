@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+M%C3%A1rcio;💻+Desenvolvedor+em+forma%C3%A7%C3%A3o;🚀+Seja+bem-vindo+ao+meu+GitHub!)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+M%C3%A1rcio;💻+Seja+bem-vindo+ao+meu+GitHub!)
 
 ## 📌 Sobre Mim
 <ul>
