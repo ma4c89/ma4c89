@@ -9,8 +9,11 @@
   <li>🎓 Atualmente curso Ciência da Computação na Unitri, em Uberlândia/MG.</li>
 </ul>
 
-## Sobre mim na área de TI
-<p>Tenho uma curiosidade natural e muita facilidade para aprender. Desde cedo, me identifiquei com a área de TI e estou sempre buscando evoluir, aprendendo tanto tecnologias novas quanto antigas.</p>
+<br>
+<p>
+  Sempre tive interesse na área de TI. Iniciei meus estudos com cursos de informática básica, depois entrei no SENAI, onde comecei a aprender programação. Atualmente curso Ciência da Computação, com foco em software, algoritmos e crescimento profissional na área de tecnologia.
+</p>
+<br>
 
 ## 📊 Estatísticas do GitHub
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
