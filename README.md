@@ -1,6 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+M%C3%A1rcio;💻+Seja+bem-vindo+ao+meu+GitHub!)
+
 <br>
 <br>
+
 ## 📌 Sobre Mim
 <ul>
   <li>🧩 Gosto de programar, resolver desafios e sou autodidata.</li>
@@ -19,11 +21,9 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-<a href="https://github.com/ma4c89">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma4c89&layout=compact&langs_count=8&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true"/>
-</a>
-
+  <a href="https://github.com/ma4c89">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma4c89&layout=compact&langs_count=8&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true"/>
+  </a>
 </div>
 
 <br>
@@ -76,7 +76,7 @@
 <br>
 
 ## 🔧 Recursos Úteis para Desenvolvimento e Design
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="6">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="6"> 
   <thead>
     <tr style="background-color: #f2f2f2;">
       <th align="left">🔗 Recurso</th>
