@@ -79,8 +79,8 @@
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="6"> 
   <thead>
     <tr style="background-color: #f2f2f2;">
-      <th align="left">🔗 Recurso</th>
-      <th align="left">📝 Descrição</th>
+      <th align="center">🔗 Recurso</th>
+      <th align="center">📝 Descrição</th>
     </tr>
   </thead>
   <tbody>
