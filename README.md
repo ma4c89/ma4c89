@@ -28,7 +28,8 @@
 
 <br>
 
-## 🧠 Conhecimentos
+## 💻 Tecnologias
+
 <div align="center">
   <img alt="C" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="Java" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;&nbsp;
@@ -41,8 +42,6 @@
 </div>
 
 <br>
-
-## 🛠️ Ferramentas
 
 <div align="center">
   <img alt="Android Studio" height="25" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
