@@ -10,7 +10,7 @@
   <li>🧩 Gosto de programar, resolver desafios e sou autodidata.</li>
   <li>📽️ Sou editor de vídeos.</li>
   <li>🎨 Tenho paixão por design.</li>
-  <li>🎓 Sou formado em Análise e Desenvolvimento de Sistemas, com foco em programação e tecnologia.</li>
+  <li>🎓 Sou formado em Análise e Desenvolvimento de Sistemas.</li>
   <li>🎓 Atualmente curso Ciência da Computação na Unitri, em Uberlândia/MG.</li>
 </ul>
 
