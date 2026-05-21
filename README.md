@@ -20,16 +20,6 @@
 </p>
 <br>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/ma4c89">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma4c89&layout=compact&langs_count=8&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true"/>
-  </a>
-</div>
-
-<br>
-
 ## 💻 Tecnologias
 
 <div align="center">
